@@ -1,1 +1,12 @@
-# 4vivi
+# Hello! 👋🏾
+I'm Avina, a student currently studying Digital Software Development.
+
+I'm still learning the basics of HTML, CSS and JavaScript.
+
+I love to research on my interest and build on my skills.
+
+Fun facts:
+
+- I have one cat
+- I love the TFL (Transport for London) trains
+- The Spongebob Movie is my favourite movie ever
